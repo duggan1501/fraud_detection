@@ -1,0 +1,19 @@
+.venv/
+
+Group5_CS6502_Report.pdf
+
+Notebook_2_EDA.ipynb
+Notebook_3_DummyClassifier.ipynb
+Notebook_4_LogisticRegression.ipynb
+Notebook_5_SVM.ipynb
+Notebook_6_RFC Model A and B.ipynb
+Notebook_6_RFC Model C.ipynb
+Notebook_6_RFC Model D.ipynb
+Notebook_7_BoostedTrees.ipynb
+
+README.md
+
+__pycache__/
+.ipynb_checkpoints/
+
+data/*.csv
